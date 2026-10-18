@@ -22,8 +22,3 @@ The feedback bands are:
 - **50–69%:** a mix of helpful choices and gaps worth reviewing.
 - **Below 50%:** replay the story and explore another route.
 
-The labels are supportive rather than pass/fail. A score reflects only the choices made in the game—not a person's character or what they would do in real life. In real healthcare situations, options and constraints can be more complicated.
-
-## Review before publication
-
-The rubric was drafted with AI assistance. The iGEM ICT Mumbai 2026 team should read the score assignments scene by scene and adjust them where the explanation and points do not align. A TB/diagnostic reviewer should check the scientific framing. Do not describe the scoring as clinically validated or as evidence that the game changes real-world behaviour.
