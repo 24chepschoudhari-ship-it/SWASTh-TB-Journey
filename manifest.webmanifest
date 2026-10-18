@@ -1,9 +1,0 @@
-{
-  "name":"The TB Journey — SWASTh-TB",
-  "short_name":"TB Journey",
-  "start_url":"./index.html",
-  "display":"standalone",
-  "background_color":"#f7f6f0",
-  "theme_color":"#f7f6f0",
-  "description":"Educational simulation for TB awareness, diagnostic literacy and synthetic biology."
-}
