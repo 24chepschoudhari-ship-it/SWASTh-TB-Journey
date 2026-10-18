@@ -41,14 +41,4 @@ The simulator is for education and reflection, not diagnosis or individual medic
 
 ## iGEM review and attribution
 
-This package avoids Google-sourced images, AI-generated artwork, external fonts, external libraries and CDNs. The interface styling and accessibility updates were developed with AI assistance; see `AI_ASSISTANCE.md`. Team members should review and understand the code, verify the scientific wording, and accurately disclose AI use and all external contributions through the applicable 2026 iGEM processes. This package is a standalone GitHub Pages app, not an integrated iGEM wiki build. Do not embed it as an external iframe or load its assets from GitHub Pages into the official wiki. To run it inside the official 2026 wiki, adapt it to the official team repository and iGEM-hosted asset workflow. This package is **not a certification of full iGEM compliance**; review the current official competition rules, AI policy, attribution requirements and communication/wiki requirements before publication.
-
-## Local checks performed for this build
-
-- JavaScript syntax checked for the game and language files.
-- All 43 story scenes across the three roles are reachable from their role's starting scene.
-- All 172 choices (four per scene) point to a valid scene or to the biology pathway.
-- Logic-checked all role routes, score assignments and score calculations. The first-choice route in each role reaches the biology sequence and produces the expected full score.
-- The recent score-card changes still need a final visual check in a normal browser at 320, 375, 430, 768, 1024 and 1440 pixels, followed by testing on the deployed URL.
-
-These checks do not replace the team's final content review or testing of the published GitHub Pages URL.
+This package avoids Google-sourced images, AI-generated artwork, external fonts, external libraries and CDNs. The interface styling and accessibility updates were developed with AI assistance; see `AI_ASSISTANCE.md`. 
